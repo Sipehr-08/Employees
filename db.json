@@ -1,0 +1,100 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "fullName": "Jurazoda Sipehr Sadriddin",
+      "position": "frontend-developer",
+      "sex": "woman",
+      "departament": "IT",
+      "birthd": "2000-03-08"
+    },
+    {
+      "id": 2,
+      "fullName": "Safarova Dilnoza Qurbonovna",
+      "position": "froend-developer",
+      "sex": "woman",
+      "departament": "IT",
+      "birthd": "2000-03-08"
+    },
+    {
+      "id": 3,
+      "fullName": "Mirzoev Umar Turaqulovich",
+      "position": "accountant-general",
+      "sex": "man",
+      "departament": "Accounting",
+      "birthd": "1996-03-08"
+    },
+    {
+      "id": 4,
+      "fullName": "Saidov Daler Muminovich",
+      "position": "froend-developer",
+      "sex": "man",
+      "departament": "IT",
+      "birthd": "2001-03-08"
+    },
+    {
+      "id": 5,
+      "fullName": "Kamolov Daler Muminovich",
+      "position": "froend-developer",
+      "sex": "man",
+      "departament": "IT",
+      "birthd": "2001-03-08"
+    },
+    {
+      "id": 6,
+      "fullName": "Shamsova Bonu Mirzoevana",
+      "position": "marketer",
+      "sex": "woman",
+      "departament": "Marketing",
+      "birthd": "1975-03-08"
+    },
+    {
+      "id": 7,
+      "fullName": "Amronov Muhammad Davlatovich",
+      "position": "marketer",
+      "sex": "man",
+      "departament": "Marketing",
+      "birthd": "1984-03-08"
+    },
+    {
+      "id": 8,
+      "fullName": "Shamsov Ilyos Mirzoevich",
+      "position": "marketer",
+      "sex": "man",
+      "departament": "Marketing",
+      "birthd": "2000-03-08"
+    },
+    {
+      "id": 9,
+      "fullName": "Saidnuqriddinov Abdupaqos Asrorovich",
+      "position": "marketer",
+      "sex": "man",
+      "departament": "Marketing",
+      "birthd": "1998-03-08"
+    },
+    {
+      "id": 10,
+      "fullName": "Sobirova Rukhshona Mirzoevana",
+      "position": "marketer",
+      "sex": "woman",
+      "departament": "Marketing",
+      "birthd": "1990-03-08"
+    },
+    {
+      "id": 11,
+      "fullName": "Davlatzoda Zunun Mirzo",
+      "position": "accountant-general",
+      "sex": "man",
+      "departament": "Accounting",
+      "birthd": "2003-03-08"
+    },
+    {
+      "id": 12,
+      "fullName": "Davlatzoda Zunun Mirzo",
+      "position": "accountant-general",
+      "sex": "man",
+      "departament": "Accounting",
+      "birthd": "2003-03-08"
+    }
+  ]
+}
